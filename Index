@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html dir="ltr" lang="en-US">
+  <head>
+    <title> So Fetch Web Designs </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Web design company which has a web designer for small businesses at affordable rates."
+  </head>
+   
+    
+     <header>
+       <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html">About</a></li>
+          <li><a href="index.html">Pricing</a></li>
+          <li><a href="index.html">Contact</a></li>
+        </ul>
+        </nav>
+       <h1>Home</h1>
+      </header>
+
+<body>
+<image src"https://lh3.googleusercontent.com/TbcCkRafez7vDdtoDtvViJFdBdvbSlogWJPSW_Ogh9AYyZ3ibRi_FYPD17efcAojXcDAXr8fH1ruYQNS0z7SGR_yRV0ZLPIQwzBpJuexwwIhM-Lp99iU6c8wdGfEqZTiY06gpjIdHw=w2400" alt"Mission statement with diamond logo, To provide affordable web design services for small businesses.">
